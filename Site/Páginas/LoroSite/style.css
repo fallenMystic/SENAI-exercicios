@@ -1,0 +1,79 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.box_header{
+    width: 100%;
+    background: rgb(255, 189, 189);
+}
+
+.titulo{
+    text-align: center;
+}
+
+.titulo h1{
+    padding-top: 5px;
+    font-size: 30px;
+    
+}
+
+.titulo img{
+    width: 320px;
+    padding: 15px;
+
+}
+
+.titulo p{
+    font-size: 22px;
+    word-break: normal;
+    padding-bottom: 15px;
+
+}
+main{
+    background: rgb(255, 189, 189);
+}
+
+.main_first{
+    text-align: center;
+}
+
+.main_first h3{
+    padding: 15px 0;
+    font-size: 24px;
+    border-top: 1px solid #000000;
+}
+
+.main_first p{
+    font-size: 20px;
+    padding: 10px 0;
+
+}
+
+.main_first img{
+    width: 230px;
+    
+}
+
+.link_loro_comu p{
+    vertical-align: bottom;
+}
+
+
+
+.ftm{
+    padding-top: 30px;
+    text-align: center;
+    background: rgb(255, 189, 189);
+    border-top: 1px solid #000000;
+}
+
+.ftm h3{
+    font-size: 16px;
+    padding-bottom: 15px;
+    color: violet;
+    font-weight: bold;
+}
+
+.ftm img{
+    width: 240px;
+}

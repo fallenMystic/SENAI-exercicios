@@ -1,0 +1,28 @@
+body{ background-color: rgb(255, 189, 189);
+
+}
+
+h1{
+    color:hotpink;
+    text-align: center;
+font-size: 40px;
+padding: 4px 4px;
+font-family: 'Shippori Antique B1', sans-serif;
+}
+
+p{
+    text-align: center;
+    color:#bd2679;
+    font-size: 40px;
+    padding: 40px 40px;
+    text-indent: 4px;
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+.link{
+    text-align: center;
+    font-size: 30px;
+    text-indent: 3px;
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
